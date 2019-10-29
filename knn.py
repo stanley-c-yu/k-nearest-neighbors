@@ -61,8 +61,6 @@ class knn:
         Calculates Euclidean Distance for kNN.
         Takes the X Training Set and the X Testing Set, and finds the Euclidean Distance.  
         '''
-#         a = self.feature_training_set 
-#         b = self.feature_test_set 
         
         return(np.sqrt(np.sum(np.square(a-b),axis=1)))
 
