@@ -3,7 +3,7 @@ An implementation of the kNN Algorithm as part of an assignment for a supervised
 
 The original dataset is contained in the "spambase.data" file, courtesy of UC Irvine's Machine Learning Repository.  It contains feature data detailing characteristics of several thousand emails.  This feature data is divided into 57 columns such as word frequency and lengths of adjacent capital letters, and a 58th column documenting whether the email was either SPAM or HAM (i.e., it was not junk mail).  
 
-The file itself is unlabeled, however the names of the columns in order are provided in the "spambase.names" files included in this repository (and also courtesy of the UCI Machine Learning Repository).  
+The file itself is unlabeled, however the names of the columns in order are provided in the "spambase.names" file included in this repository (and also courtesy of the UCI Machine Learning Repository).  
 
 Further documentation is included in the "spambase.documentation" file included in this repository.  
 
