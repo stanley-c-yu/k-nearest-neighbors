@@ -1,5 +1,5 @@
 # k-nearest-neighbors
-An implementation of the kNN Algorithm as part of an assignment for a supervised machine learning class.  
+An implementation of the kNN Algorithm.  
 
 The original dataset is contained in the "spambase.data" file, courtesy of UC Irvine's Machine Learning Repository.  It contains feature data detailing characteristics of several thousand emails.  This feature data is divided into 57 columns such as word frequency and lengths of adjacent capital letters, and a 58th column documenting whether the email was either SPAM or HAM (i.e., it was not junk mail).  
 
